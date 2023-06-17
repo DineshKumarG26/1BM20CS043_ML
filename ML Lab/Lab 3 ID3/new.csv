@@ -1,0 +1,15 @@
+Age_Group,Gender,Marital_Status,Car_Bought,Education_Level
+Below_35,Male,Single,No,Graduate
+Below_35,Female,Single,Yes,Undergraduate
+35_50,Male,Married,Yes,Postgraduate
+Above_50,Female,Married,Yes,Undergraduate
+Below_35,Female,Married,No,Graduate
+35_50,Male,Single,Yes,Postgraduate
+Above_50,Male,Married,Yes,Graduate
+Below_35,Female,Single,No,Undergraduate
+35_50,Female,Married,Yes,Postgraduate
+Above_50,Male,Married,No,Graduate
+Below_35,Male,Single,Yes,Undergraduate
+Below_35,Male,Married,No,Undergraduate
+35_50,Female,Married,Yes,Postgraduate
+Above_50,Female,Single,Yes,Graduate
